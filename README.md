@@ -13,6 +13,7 @@
                                 <li>Changes will be reflected in real time.</li>
                                 <p><strong>IMPORTANT:</strong> Theme Master will NOT permanently install your modified or created themes. Changes introduced by Theme Master are just temporay and as soon as you refresh the Home Assistant web page they will be reset. To install the modified themes you will have to copy the generated code, create a .yaml file, paste the code in it and install that theme file as usual on Home Assistant.</p>
                             </ul>
+                            <img width="504" alt="Captura de pantalla 2021-10-27 a las 20 19 20" src="https://user-images.githubusercontent.com/59753051/139132479-bc5c3977-4c59-4e83-b0d7-02b2c18970fa.png">
                         <p>&nbsp;</p>
                         <h2>USAGE</h2>
                             <ul>
