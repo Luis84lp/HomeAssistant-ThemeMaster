@@ -5,6 +5,10 @@
 <p>You will have to install <a href="https://github.com/Luis84lp/HomeAssistant-ThemeMaster">"HomeAssistant-ThemeMaster"</a> and <a href=" ">"card-tools"</a>.
 <p>Follow <strong><a href="https://github.com/thomasloven/hass-config/wiki/Lovelace-Plugins">this</a></strong> guide to install both plugins.</p>
 
+<h2>Create card on Home Assistant</h2>
+<p>Create a new card and define it as follows:</p>
+<p><code>type: custom:theme-master</code></p>
+
 <h2>What can be done with Theme Master</h2>
                             <ul>
                                 <li>Add CSS style properties from a dropdown list or manually.</li>
