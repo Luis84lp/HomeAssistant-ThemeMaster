@@ -1,5 +1,10 @@
 # HomeAssistant-ThemeMaster
 <p>Theme Master simplifies the process of creating or modifying a theme on Home Assistant.</p>
+<h2>Installation instructions</h2>
+
+<p>You will have to install <a href="https://github.com/Luis84lp/HomeAssistant-ThemeMaster">"HomeAssistant-ThemeMaster"</a> and <a href=" ">"card-tools"</a>.
+<p>Follow <strong><a href="https://github.com/thomasloven/hass-config/wiki/Lovelace-Plugins">this</a></strong> guide to install both plugins.</p>
+
 <h2>What can be done with Theme Master</h2>
                             <ul>
                                 <li>Add CSS style properties from a dropdown list or manually.</li>
