@@ -679,6 +679,13 @@ customElements.whenDefined('card-tools').then(() => {
 
     }
     customElements.define('theme-master', ThemeMaster);
+    window.customCards = window.customCards || [];
+    window.customCards.push({
+        type: "theme-master",
+        name: "Theme Master",
+        preview: true, // Optional - defaults to false
+        description: "Theme Master - Master Home Assistant themes!" // Optional
+    });
 });
 
 window.setTimeout(() => {
